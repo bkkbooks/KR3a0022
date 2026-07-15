@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3a0022/v1
 canonical_location: https://kanripo.org/bkk/KR3a0022/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 儒志編
   date: '2015-08-24 22:57:38.100126'
@@ -20,13 +20,13 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR3a0022_000.yaml, hash: 'sha256:319eaddbf5f5187c45b77d9edea7cda65a062d2926884782aebde6570761b74a'}
-  - {seq: 1, filename: KR3a0022_001.yaml, hash: 'sha256:c0a38e390fa3d7008d721e892564b8c7aae735f165e303c92e2c91d89c197722'}
-  - {seq: 2, filename: KR3a0022_002.yaml, hash: 'sha256:f1b8e0d47856f9b66a7219cfad7922b62a7fe5e9b525dd0223f9917ebbc94be7'}
+  - {seq: 0, filename: KR3a0022_000.yaml, hash: 'sha256:45f6ae12385a4b67892c475f47f965d291dcd8f00e1faeff9775af6c86c6243d'}
+  - {seq: 1, filename: KR3a0022_001.yaml, hash: 'sha256:a9b9948cc64d4d03ae6184965c855341ad70e34ac778e9a0ac2247787a25ca9c'}
+  - {seq: 2, filename: KR3a0022_002.yaml, hash: 'sha256:20c7a86c06dffe58c341fe860382cf3ed52c83fdf7436afc8d0592eaddad018e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0022_000.markers.yaml, hash: 'sha256:d39d422753e10991d2e9e276bb84c7169be4de1bbdd6edec6b50b53a01b5fb07'}
-  - {seq: 1, role: markers, filename: assets/KR3a0022_001.markers.yaml, hash: 'sha256:dafcb545aeb9efa5987d20da52a004f76f6adc50dd7fd3880f7178da202389c4'}
-  - {seq: 2, role: markers, filename: assets/KR3a0022_002.markers.yaml, hash: 'sha256:ee0e27179e91a6a43ecc754f2ab094dbb0cb86f211c63d41aac04f8e3eba7756'}
+  - {seq: 0, role: markers, filename: assets/KR3a0022_000.markers.yaml, hash: 'sha256:ba38575c1b4cf39297defbfb139c29db69a3c1d2e9f73bcc462c1da66687028c'}
+  - {seq: 1, role: markers, filename: assets/KR3a0022_001.markers.yaml, hash: 'sha256:8eae6cecba5dfc223ae98d3bc285249eea60b2f2e2919328e4dddbde077134ed'}
+  - {seq: 2, role: markers, filename: assets/KR3a0022_002.markers.yaml, hash: 'sha256:94277ad858e33b7826be57fac263822208dda2a2338afb011bb9c4828e6be4f4'}
 table_of_contents:
 - ref:
     seq: 0
@@ -68,4 +68,7 @@ table_of_contents:
   label: 儒志學業傳
   type: section
   level: 1
-hash: sha256:930ca1a7e76a9a0006aa5ad4e510d63b33ec8b3ce46b980592f8d10019766d87
+hash: sha256:4cba25a65a97059154028251f52ef874dad16248a0682df7c385d075eb5b0df0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
