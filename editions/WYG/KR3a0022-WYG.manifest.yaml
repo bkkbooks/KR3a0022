@@ -21,8 +21,8 @@ assets:
   - {seq: 1, filename: KR3a0022_001-WYG.yaml, hash: 'sha256:802cfcd74db9b897a357400eee5b6c03b22b6e47e58b9a7620cfd2a9f00dcd7e'}
   - {seq: 2, filename: KR3a0022_002-WYG.yaml, hash: 'sha256:3723efdb3dd02fdfe88f3a388afec92ff0c7fa45ea1ce0bd4652910216ab05c7'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3a0022_000-WYG.markers.yaml, hash: 'sha256:344019d19677eeab4555f00851f1ddf91932514c95b8266b91832d363badd8a8'}
-  - {seq: 1, role: markers, filename: assets/KR3a0022_001-WYG.markers.yaml, hash: 'sha256:8c743eee8a00be9424c0d1838391f0ed6807cd62f89f90aec12e499a9bc5704d'}
+  - {seq: 0, role: markers, filename: assets/KR3a0022_000-WYG.markers.yaml, hash: 'sha256:6d4a279624f3d818b427be9c96f756bc107414d43b781fac5f249cbab2c96a64'}
+  - {seq: 1, role: markers, filename: assets/KR3a0022_001-WYG.markers.yaml, hash: 'sha256:21ec2b3756a59d862bf6581bd477eaeacbb64c88db44ac3b5428e5ca515efaab'}
   - {seq: 2, role: markers, filename: assets/KR3a0022_002-WYG.markers.yaml, hash: 'sha256:e0bdcd773c94787560fdafd748cd314b5db0eb887321c3fbf592c81f111116af'}
 table_of_contents:
 - ref:
@@ -65,4 +65,4 @@ table_of_contents:
   label: 儒志學業傳
   type: section
   level: 1
-hash: sha256:afbe7eb2a6b49b837581f9d6c526f6554eb5bb1862a49e774a98d1f9d58448bd
+hash: sha256:618be9063818378c57286217c618e80d1da67676734b593e65318cf5960f896d
